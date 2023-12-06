@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27bfe1fb15feb3c42b65ab4a0287321c, type: 3}
+  m_Name: Hand Element Card Database
+  m_EditorClassIdentifier: 
+  _reconstructDatabse: 0
+  <HandElementDetails>k__BackingField:
+    m_Keys: 0000000001000000020000000300000004000000
+    m_Values:
+    - <Icon>k__BackingField: {fileID: 21300000, guid: 5463811302fd06344bea460a2691e18c,
+        type: 3}
+      <SelectAudioClip>k__BackingField: {fileID: 8300000, guid: b9c0d9ff592a9984c89658dadc83facb,
+        type: 3}
+      <CardBgColor>k__BackingField: {r: 1, g: 0.42467213, b: 0.37421376, a: 1}
+    - <Icon>k__BackingField: {fileID: 21300000, guid: 3f2069a5ea238c24a9ea331eb885e897,
+        type: 3}
+      <SelectAudioClip>k__BackingField: {fileID: 8300000, guid: b9c0d9ff592a9984c89658dadc83facb,
+        type: 3}
+      <CardBgColor>k__BackingField: {r: 0.87045836, g: 1, b: 0.37254906, a: 1}
+    - <Icon>k__BackingField: {fileID: 21300000, guid: abb250c9ff7209146aaea1f24636bce7,
+        type: 3}
+      <SelectAudioClip>k__BackingField: {fileID: 8300000, guid: b9c0d9ff592a9984c89658dadc83facb,
+        type: 3}
+      <CardBgColor>k__BackingField: {r: 0.37254906, g: 0.5943186, b: 1, a: 1}
+    - <Icon>k__BackingField: {fileID: 21300000, guid: ee4bbace80792cb49b8ea9d1f557e299,
+        type: 3}
+      <SelectAudioClip>k__BackingField: {fileID: 8300000, guid: b9c0d9ff592a9984c89658dadc83facb,
+        type: 3}
+      <CardBgColor>k__BackingField: {r: 1, g: 0.37254906, b: 0.6985091, a: 1}
+    - <Icon>k__BackingField: {fileID: 21300000, guid: 61d99b52f1fd3ab4fafb7ecf44b3d88f,
+        type: 3}
+      <SelectAudioClip>k__BackingField: {fileID: 8300000, guid: b9c0d9ff592a9984c89658dadc83facb,
+        type: 3}
+      <CardBgColor>k__BackingField: {r: 0.37254906, g: 0.9154757, b: 1, a: 1}
+  <MoveTypesArray>k__BackingField: 0000000001000000020000000300000004000000

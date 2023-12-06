@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3599fd7ebdaa3049bb2e99a7b58842c, type: 3}
+  m_Name: RuleSet
+  m_EditorClassIdentifier: 
+  InitRulesSetup: 0
+  ClearRulesSetup: 0
+  RulesValidityMessage: ALL RULES NOW SEEMS VALID AND LOGICAL
+  GameRules:
+    m_Keys:
+    - Move1: 0
+      Move2: 0
+    - Move1: 0
+      Move2: 1
+    - Move1: 0
+      Move2: 2
+    - Move1: 0
+      Move2: 3
+    - Move1: 0
+      Move2: 4
+    - Move1: 1
+      Move2: 1
+    - Move1: 1
+      Move2: 2
+    - Move1: 1
+      Move2: 3
+    - Move1: 1
+      Move2: 4
+    - Move1: 2
+      Move2: 2
+    - Move1: 2
+      Move2: 3
+    - Move1: 2
+      Move2: 4
+    - Move1: 3
+      Move2: 3
+    - Move1: 3
+      Move2: 4
+    - Move1: 4
+      Move2: 4
+    m_Values:
+    - IsSetUp: 1
+      Winner: 0
+      ResultText: Tie
+      Loser: 0
+    - IsSetUp: 1
+      Winner: 1
+      ResultText: Covers
+      Loser: 0
+    - IsSetUp: 1
+      Winner: 0
+      ResultText: Crushes
+      Loser: 2
+    - IsSetUp: 1
+      Winner: 3
+      ResultText: Vaporises
+      Loser: 0
+    - IsSetUp: 1
+      Winner: 0
+      ResultText: Crushes
+      Loser: 4
+    - IsSetUp: 1
+      Winner: 1
+      ResultText: Tie
+      Loser: 1
+    - IsSetUp: 1
+      Winner: 2
+      ResultText: Cuts
+      Loser: 1
+    - IsSetUp: 1
+      Winner: 1
+      ResultText: Disproves
+      Loser: 3
+    - IsSetUp: 1
+      Winner: 4
+      ResultText: Eats
+      Loser: 1
+    - IsSetUp: 1
+      Winner: 2
+      ResultText: Tie
+      Loser: 2
+    - IsSetUp: 1
+      Winner: 3
+      ResultText: Smashes
+      Loser: 2
+    - IsSetUp: 1
+      Winner: 2
+      ResultText: Decapitates
+      Loser: 4
+    - IsSetUp: 1
+      Winner: 3
+      ResultText: Tie
+      Loser: 3
+    - IsSetUp: 1
+      Winner: 4
+      ResultText: Poisons
+      Loser: 3
+    - IsSetUp: 1
+      Winner: 4
+      ResultText: Tie
+      Loser: 4
+  Input1: 1
+  Input2: 0
+  Output:
+    IsSetUp: 1
+    Winner: 1
+    ResultText: Covers
+    Loser: 0
