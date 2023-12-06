@@ -9,6 +9,11 @@ Game rules
 - if you are adding a enum you have to set it up inside Rules Scriptable object asset
 - You also have to modify the ELement Database Scriptable object asset, you have to set up values and references of related asset for that element
 
+# External resources used in peoject other than core unity features
+- DoTween plugin from the Asset store of Unity
+- Audio and sprite assets form OpenGameArt.org
+- Some sprite assets used were found in Google search and downloaded from there
+
 # One fun Idea for its meta is
 - Give player option in the menu to take only 25 card of his choice
 - Both the player will thus have same number of cards but type would vary
