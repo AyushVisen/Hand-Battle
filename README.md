@@ -27,4 +27,4 @@ Game rules
 - In the end Player with most round wins will win the match
 
 # Note
-- I tried to write the code as good as possible, but due to my main office work, I was very juggled between work and this test, still I tried to write my Best. Hope you like it.
+- I tried to write the code as good as possible, but due to my main office work, I was very juggled between work and this test, still I tried to write my Best. Hope you like it. :)
