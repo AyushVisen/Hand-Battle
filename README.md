@@ -1,4 +1,4 @@
-# Show of Hands
+# Hand Battle
 This is a test submission for Stellar Play
 Game rules
 - Tap Play in Menu screen
